@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Perfil</string>
+    <string name="texto_boton_guardar">Siguiente</string>
+    <string name="name">Nombre:</string>
+    <string name="fecha">Fecha de nacimiento:</string>
+    <string name="mail">Mail:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="descripcion">Descripción contacto</string>
+
+    <string name="pname">Nombre</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pmail">Mail</string>
+    <string name="pfecha">Fecha</string>
+    <string name="pdescripcion">Descrippción</string>
+    <string name="texto_boton_modificar">Editar datos</string>
+    <string name="confirmar">Confirmar Datos</string>
+
+    <string name="onstart">OnStart</string>
+    <string name="onresume">OnResume</string>
+    <string name="onrestart">OnRestart</string>
+    <string name="onpause">OnPause</string>
+    <string name="onstop">OnStop</string>
+    <string name="ondestroy">OnDestroy</string>
+    <string name="oncreate">OnCreate</string>
+</resources>
